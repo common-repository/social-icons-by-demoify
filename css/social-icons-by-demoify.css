@@ -1,0 +1,94 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+
+.social-icons .fa {
+   width: 40px;
+    height: 40px;
+	color: #000;
+	background-color: #FFF;
+	border: 1px solid #000;
+	padding-top: 12px;
+	border-radius: 22px;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	-o-border-radius: 22px;
+	padding-left: 13px;
+	
+	margin-left: -5px;
+}
+.social-icons a {
+	font-size: 18px;
+	padding: 8px 10px 6px;
+	color: #FFFFFF;
+	margin-bottom: 5px;
+	display: ruby-base !important;
+	
+	width: 30px;
+	height: 30px;
+}
+
+.social-icons .fa:hover {
+	color: #FFF;
+	background-color: #000;
+	border: 1px solid #000;
+}
+
+/*css for square*/
+.social-icons .fa {
+   width: 40px;
+    height: 40px;
+	color: #000;
+	background-color: #FFF;
+	border: 1px solid #000;
+	padding-top: 12px;
+
+	padding-left: 13px;
+	
+	margin-left: -5px;
+}
+.social-icons a {
+	font-size: 18px;
+	padding: 8px 10px 6px;
+	color: #FFFFFF;
+	margin-bottom: 5px;
+	display: ruby-base !important;
+	
+	width: 30px;
+	height: 30px;
+}
+
+.social-icons .fa:hover {
+	color: #FFF;
+	background-color: #000;
+	border: 1px solid #000;
+}
+
+/*css for blunt edge*/
+.social-icons .fa {
+   width: 40px;
+    height: 40px;
+	color: #000;
+	background-color: #FFF;
+	border: 1px solid #000;
+	padding-top: 12px;
+
+	padding-left: 13px;
+	
+	margin-left: -5px;
+	border-radius: 10px;
+}
+.social-icons a {
+	font-size: 18px;
+	padding: 8px 10px 6px;
+	color: #FFFFFF;
+	margin-bottom: 5px;
+	display: ruby-base !important;
+	
+	width: 30px;
+	height: 30px;
+}
+
+.social-icons .fa:hover {
+	color: #FFF;
+	background-color: #000;
+	border: 1px solid #000;
+} 
